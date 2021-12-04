@@ -1,5 +1,5 @@
 # CourseHub Portal
-Github Hub for other class repositories for potential employes to look through.
+Github Hub for other class repositories for potential employers to look through.
 
 |Class|
 |----|
